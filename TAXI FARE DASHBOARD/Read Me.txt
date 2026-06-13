@@ -64,30 +64,6 @@ The goal of this project is to demonstrate data cleaning, data modeling, DAX cal
 - Service quality score remained consistently strong across vehicle categories.
 - Cancellation analysis helped identify major customer and driver pain points.
 
----
-
-## 📷 Dashboard Preview
-
-### Overall Dashboard
-![Overall Dashboard](screenshots/overall.png)
-
-### Vehicle Type Analysis
-![Vehicle Type Analysis](screenshots/vehicle_type.png)
-
-### Revenue Analysis
-![Revenue Analysis](screenshots/revenue.png)
-
-### Cancellation Analysis
-![Cancellation Analysis](screenshots/cancellation.png)
-
-### Ratings Analysis
-![Ratings Analysis](screenshots/ratings.png)
-
-### Executive Summary
-![Executive Summary](screenshots/summary.png)
-
----
-
 ## 📂 Repository Structure
 
 ```text
