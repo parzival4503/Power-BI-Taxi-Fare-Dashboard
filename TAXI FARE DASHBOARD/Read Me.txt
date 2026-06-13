@@ -1,0 +1,128 @@
+# 🚖 Taxi Booking Analytics Dashboard | Power BI
+
+## 📌 Project Overview
+This project is an interactive Power BI dashboard built using a taxi booking dataset sourced from Kaggle. The dashboard provides insights into booking trends, revenue performance, ride cancellations, customer ratings, vehicle utilization, and service quality metrics.
+
+The goal of this project is to demonstrate data cleaning, data modeling, DAX calculations, and dashboard design skills while extracting actionable business insights from ride-booking data.
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Kaggle Dataset
+
+---
+
+## 📊 Dashboard Features
+
+### Overall Analysis
+- Total bookings and cancellations
+- Booking status distribution
+- Monthly booking trends
+- Date-based filtering
+
+### Vehicle Type Analysis
+- Total bookings by vehicle type
+- Successful booking value
+- Average distance travelled
+- Total distance covered
+
+### Revenue Analysis
+- Revenue by payment method
+- Ride distance trends
+- Booking value tracking
+- Revenue contribution insights
+
+### Cancellation Analysis
+- Overall cancellation percentage
+- Driver cancellation reasons
+- Customer cancellation reasons
+- Cancellation trend monitoring
+
+### Ratings Analysis
+- Customer ratings by vehicle type
+- Driver ratings by vehicle type
+- Service quality comparison
+
+### Executive Summary
+- Revenue KPIs
+- Customer retention metrics
+- Peak hour performance
+- Service quality score
+- Revenue by tier and distance category
+
+---
+
+## 🔍 Key Insights
+- Premium rides contributed the highest share of revenue.
+- Evening and morning hours generated the highest booking values.
+- UPI emerged as the most preferred payment method.
+- Medium-distance trips generated the largest revenue contribution.
+- Service quality score remained consistently strong across vehicle categories.
+- Cancellation analysis helped identify major customer and driver pain points.
+
+---
+
+## 📷 Dashboard Preview
+
+### Overall Dashboard
+![Overall Dashboard](screenshots/overall.png)
+
+### Vehicle Type Analysis
+![Vehicle Type Analysis](screenshots/vehicle_type.png)
+
+### Revenue Analysis
+![Revenue Analysis](screenshots/revenue.png)
+
+### Cancellation Analysis
+![Cancellation Analysis](screenshots/cancellation.png)
+
+### Ratings Analysis
+![Ratings Analysis](screenshots/ratings.png)
+
+### Executive Summary
+![Executive Summary](screenshots/summary.png)
+
+---
+
+## 📂 Repository Structure
+
+```text
+Taxi-Booking-Analytics/
+│
+├── Dashboard.pbix
+├── README.md
+└── screenshots/
+    ├── overview.png
+    ├── vehicle type.png
+    ├── revenue.png
+    ├── cancellation.png
+    ├── rating.png
+    └── summary.png
+```
+
+---
+
+## 🎯 Skills Demonstrated
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Measures & KPIs
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+- Analytical Thinking
+
+---
+
+## 📁 Dataset
+Dataset sourced from Kaggle and used for educational and portfolio purposes.
+
+---
+
+## 👨‍💻 Author
+Jaskaran Singh
+
+Aspiring Data Analyst skilled in SQL, Power BI, Excel, and Python, passionate about transforming data into actionable business insights.
